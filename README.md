@@ -1,2 +1,2 @@
-# TCP servep
+# TCP server
 TCP server python script.
